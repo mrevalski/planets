@@ -1,10 +1,7 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem.
 I added this third line for RJ to see! :)
-<<<<<<< HEAD
 This line is for Catherine's example!
-=======
 And I've added this line for Mitchell to see!
 Catherine added another line.
->>>>>>> bcddc79c44d5f97ba6a767bb9d194f2e96c32672
-The latest changes - Mitchell 2:27pm.
+
